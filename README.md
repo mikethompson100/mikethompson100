@@ -1,6 +1,6 @@
 
 <body>
-<img src="https://github.com/mikethompson100/mikethompson100/blob/master/avatar.jpg" />
+<img src="https://github.com/mikethompson100/mikethompson100/blob/master/avatar2.jpg" />
 <header>
 <h1>Welcome to my profile! I'm Michael Thompson. If you have any questions or comments about my code, please feel free to reach out. My digital door is always open.</h1>
 </header>
