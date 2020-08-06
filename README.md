@@ -1,13 +1,4 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Michael Thompson - Github</title>
-    <meta name="description" content="website">
-    <meta name="author" content="mikethompson100">
-</head>
+<html>
 <body>
 <header>
 <h1>Welcome to my profile!</h1>
