@@ -7,10 +7,10 @@
 <h2>In 2005, after working in network administration, I started teaching myself HTML and CSS and instantly fell in love with it. I made a career change and haven't looked back. In the past few years I've been studying full stack development.</h2>
 </section>
 <section>
-<h3>In 2017, I took a Continuing Education Class at New York University entitled, "Web Front-End II: Intermediate (Full Stack Web Development)" which covered the basics of Angular and some React.</h3>
-<h3>In July of 2020, I completed a 4 week course on Coursera with The Hong Kong University of Science and Technology entitled, "Front-End Web Development with React".</h3>
-<h3>In February of 2021, I took a Javascript Development class with General Assembly.<br/>
+<h2>In 2017, I took a Continuing Education Class at New York University entitled, "Web Front-End II: Intermediate (Full Stack Web Development)" which covered the basics of Angular and some React.</h2>
+<h2>In July of 2020, I completed a 4 week course on Coursera with The Hong Kong University of Science and Technology entitled, "Front-End Web Development with React".</h2>
+<h2>In February of 2021, I took a Javascript Development class with General Assembly.<br/>
 https://generalassemb.ly/education/javascript-development 
-</h3>
+</h2>
 </section>
 </body>
